@@ -1,0 +1,16 @@
+.nv{
+    display: flex;
+    background-color: rgb(152, 61, 177);
+    height: 50px;
+    place-items: center;
+    padding:10px;
+    
+}
+.lin{
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 300;
+  margin-left: 9px;
+  padding:10px;
+  color: azure;
+}

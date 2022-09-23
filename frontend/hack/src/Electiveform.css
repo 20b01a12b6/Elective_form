@@ -1,0 +1,41 @@
+.App1 {
+    margin: 5rem auto;
+    background-color: rgb(190, 188, 176);
+    padding: 30px ;
+    width: 350px;
+    border-radius: 20px;
+  }
+  
+  .formm{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .inputt {
+    padding: 7px;
+    height: 30px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid rgb(193, 180, 180);
+    margin-bottom: 0.3rem;
+  }
+  
+  .pp{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.5rem;
+    color: red;
+    font-size: 12px;
+  }
+  
+  .inputt:focus {
+    border: 1px solid rgb(0, 208, 255);
+  }
+  .btn{
+   padding: 10px;
+   text-align: center;
+   padding-left: 50px;
+  
+  }
+ 
